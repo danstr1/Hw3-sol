@@ -7,7 +7,7 @@ AppWizard has created this Hw3-sol application for you.
 This file contains a summary of what you will find in each of the files that
 make up your Hw3-sol application.
 sdfdsfsd
-
+dfcsdfsdf
 
 Hw3-sol.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
